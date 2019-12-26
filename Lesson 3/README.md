@@ -1,4 +1,4 @@
-# Lesson 2: Values and Types
+# Lesson 3: Values and Types
 
 ## Author: 
 Leslie8826
