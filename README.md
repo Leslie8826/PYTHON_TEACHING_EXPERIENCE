@@ -9,6 +9,6 @@ High School Students
 ## Term:
 Summer 2018
 
-## Difficulty: 
-Very easy
+## Tool to run Python: 
+https://colab.research.google.com/notebooks/welcome.ipynb
 
