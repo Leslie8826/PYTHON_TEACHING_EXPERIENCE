@@ -1,4 +1,4 @@
-# Lesson 4: Variable, expression and statements
+# Lesson 4: Variable, Expression and Statements
 
 ## Author: 
 Leslie8826
