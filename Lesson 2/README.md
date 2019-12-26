@@ -22,20 +22,5 @@ Easy
      * division
      * multiplication
      
-## Output: 
-
-Enter the first number: 12 <br>
-Enter the second number: 5 <br>
-
-
-Arithmetic operations: <br>
-Addition: <br>
-12 + 5 = 17 <br>
-Subtraction: <br>
-12 - 5 = 7 <br>
-Multiplication: <br>
-12 * 5 = 60 <br>
-Division: <br>
-12 / 5 = 2.4 <br>
 
 
