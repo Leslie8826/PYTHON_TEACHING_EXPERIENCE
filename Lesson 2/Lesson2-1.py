@@ -30,3 +30,32 @@ print("\n")
 print("Application of PEMDAS")
 print("2 + 3*5 = ", end="")
 print(2+3*5)
+
+
+
+##############
+### Output ###
+##############
+
+# Addition
+# 42 + 4 = 46
+
+
+# Subtraction
+# 57 - 5 = 52
+
+
+# Multiplication
+# 12 * 8 = 96
+
+
+# Division
+# 99/3 = 33.0
+
+
+# Exponentiation
+# 6**0.5 = 2.449489742783178
+
+
+# Application of PEMDAS
+# 2 + 3*5 = 17
