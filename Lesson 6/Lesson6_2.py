@@ -1,4 +1,4 @@
-# This program finds if the expression is true or not
+# This program finds if an expression is true or not
 5 == 5
 
 ##################
