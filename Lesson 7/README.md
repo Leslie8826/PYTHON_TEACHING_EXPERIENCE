@@ -1,5 +1,5 @@
 
-# Lesson 6: Conditionals and Recursion
+# Lesson 7: Fruitful functions
 ## Author: 
 Leslie8826
 
