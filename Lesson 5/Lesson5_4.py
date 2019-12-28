@@ -1,5 +1,5 @@
-# This function takes an argument 
-# and print twice the argument
+# This program uses a function that takes an argument 
+# and print this argument twice
 
 
 def print_twice(x):
