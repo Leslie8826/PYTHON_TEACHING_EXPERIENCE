@@ -9,7 +9,7 @@ High School Students
 Summer 2018
 
 ## Difficulty: 
-Hard
+Normal
 
 ## Objectives: 
  - Students will be able to:
@@ -17,7 +17,6 @@ Hard
      * learn how a function works
      * use built-in function
      * create functions and call them in programs
-     * the difference between a void funtion and a fruitful function
  - Students will get familiar with:
      * the arguments of functions
      * function calls
