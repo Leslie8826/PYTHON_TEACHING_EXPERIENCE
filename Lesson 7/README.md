@@ -19,7 +19,5 @@ Hard
      * create fruitful functions and call them in programs
      * the difference between a void funtion and a fruitful function
  - Students will get familiar with:
-     * if
-     * if/else
-     * input built-in function
-     * boolean expressions
+     * the arguments of functions
+     * function calls	
