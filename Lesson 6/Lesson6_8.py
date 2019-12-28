@@ -1,4 +1,4 @@
-# This program uses recursion to countdown numbers from 10 one by one.
+# This program uses recursion to countdown one by one from n (in this example n is 10).
 # Once 0 is reached, the program prints 'Blastoff!'
 
 n = 10
