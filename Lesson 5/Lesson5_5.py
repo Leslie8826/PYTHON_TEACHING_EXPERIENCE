@@ -1,5 +1,5 @@
-# This function takes 2 arguments
-# print each one of them on the same line
+# This program uses a function that takes 2 arguments
+# and print each one of them side by side
 
 def cat_twice(line1, line2):
   print(line1, end="")
