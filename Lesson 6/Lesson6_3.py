@@ -1,4 +1,4 @@
-# This program checks if the value of x is positive
+# This program prints if the value of x is positive
 # or negative
 
 x = -10
