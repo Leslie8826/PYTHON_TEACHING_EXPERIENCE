@@ -21,7 +21,6 @@ Hard
      * learn the concept of algorithms
  - Students will get familiar with:
      * algorithm
-     * for loop
      * while loop
      * break statements
 
