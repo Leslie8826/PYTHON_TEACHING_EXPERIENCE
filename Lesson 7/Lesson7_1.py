@@ -1,6 +1,8 @@
 
-# This program returns the area of 
+# This program calculates the area of 
 # a circle with a given radius
+# and display it
+
 import math
 
 def area(radius):
@@ -9,6 +11,7 @@ def area(radius):
 
 print("Area = ", end="")
 area(2)
+
 
 
 ##################
