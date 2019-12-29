@@ -1,6 +1,6 @@
 # This program asks the user to enter a integer
-# then it returns the absolute value of the 
-# aforementioned integer
+# then it displays the absolute value of the 
+# aforementioned integer to the user
 
 x=int(input("Type a value: "))
 
