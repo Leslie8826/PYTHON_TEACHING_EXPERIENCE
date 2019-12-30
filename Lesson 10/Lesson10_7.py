@@ -45,5 +45,23 @@ List:
  
  
  
+ 
  # OPERATION 3
+ # This program removes an element from a list
+ d = ['a', 'b', 'c']
+print("List: \n", d)
+d.remove('b')
+print("\n List after removing element b: \n", d)
+
+
+##################
+##### Output #####
+##################
+List: 
+ ['a', 'b', 'c']
+
+ List after removing element b: 
+ ['a', 'c']
+
+ 
  
