@@ -15,10 +15,10 @@ Normal
 
 ## Objectives: 
  - Students will be able to:
-     * learn the definition of strings
-     * learn how to calculate the length of a string
-     * learn how to traverse a string with a loop
-     * learn how to slice a string
+     * learn the definition of lists
+     * learn how to create lists
+     * learn how to access a list
+     * learn how to 
  - Students will get familiar with:
      * built-in function len
      * string traversal
