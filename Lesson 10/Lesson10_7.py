@@ -66,7 +66,10 @@ List:
  
  
  
- # OPERATION 4
+# OPERATION 4
+# name_of_string[n:m]
+# This program deletes elements from a list. It deletes the elements from the “n-eth” character
+#  to the “m-eth” character including the first but excluding the last
  t = ['a', 'b', 'c', 'd', 'e', 'f']
 print("List: \n", t)
 del t[1:5]
