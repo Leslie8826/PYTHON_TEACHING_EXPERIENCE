@@ -18,7 +18,9 @@ Normal
      * learn the definition of lists
      * learn how to create lists
      * learn how to access a list
-     * learn how to 
+     * learn how to traverse a list with a loop
+     * learn how to use operations on lists
+     * learn how to slice lists
  - Students will get familiar with:
      * built-in function len
      * string traversal
