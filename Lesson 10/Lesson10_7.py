@@ -65,3 +65,21 @@ List:
 
  
  
+ 
+ # OPERATION 4
+ t = ['a', 'b', 'c', 'd', 'e', 'f']
+print("List: \n", t)
+del t[1:5]
+print("\n List after deleting several elements: \n", t)
+
+##################
+##### Output #####
+##################
+List: 
+ ['a', 'b', 'c', 'd', 'e', 'f']
+
+ List after deleting several elements: 
+ ['a', 'f']
+
+ 
+
