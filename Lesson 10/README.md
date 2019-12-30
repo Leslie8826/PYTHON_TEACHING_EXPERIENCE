@@ -23,8 +23,8 @@ Normal
      * learn how to slice lists
      * learn how to manipulate the elements of the lists
  - Students will get familiar with:
-     * built-in function len
-     * string traversal
-     * string slices
+     * list slices
+     * list traversal
+     * append, delete, remove elements
 
 
