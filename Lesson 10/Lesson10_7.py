@@ -85,4 +85,15 @@ List:
  ['a', 'f']
 
  
+ 
+ 
+ 
+# OPERATION 5
+# This program 
+t = ['a', 'b', 'c']
+print("List: \n",t)
+
+t.append('d')
+print("\n List after adding an element: \n", t)
+
 
