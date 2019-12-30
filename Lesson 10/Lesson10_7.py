@@ -89,7 +89,7 @@ List:
  
  
 # OPERATION 5
-# This program uses the append methid a add an 
+# This program uses the append method to add an 
 # element at the end of a list
 t = ['a', 'b', 'c']
 print("List: \n",t)
@@ -107,3 +107,19 @@ List:
 List after adding an element: 
 ['a', 'b', 'c', 'd']
 
+
+
+# OPERATION 6
+# This program uses several methods 
+# to operate on a list
+list = ['larry', 'curly', 'moe']
+list.insert(1, 'xxx')  # insert an element at index 1
+list.extend(['yyy', 'zzz']) # add list of elements at the end of the list     
+print(list)  
+print("Index of element 'curly': ", list.index('curly')) # index of element curly
+
+##################
+##### Output #####
+##################
+['larry', 'xxx', 'curly', 'moe', 'yyy', 'zzz']
+Index of element 'curly':  2
