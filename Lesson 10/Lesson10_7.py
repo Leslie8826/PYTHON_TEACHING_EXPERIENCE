@@ -116,7 +116,7 @@ list = ['larry', 'curly', 'moe']
 list.insert(1, 'xxx')  # insert an element at index 1
 list.extend(['yyy', 'zzz']) # add list of elements at the end of the list     
 print(list)  
-print("Index of element 'curly': ", list.index('curly')) # index of element curly
+print("Index of element 'curly': ", list.index('curly')) # finds the index of element curly
 
 ##################
 ##### Output #####
