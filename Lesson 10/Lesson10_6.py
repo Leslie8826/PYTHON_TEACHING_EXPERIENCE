@@ -42,3 +42,17 @@ List t:  ['a', 'b', 'c', 'd', 'e', 'f']
 # name_of_string[m:]
 # This program slices a list. It returns the part of the list 
 # that is after the the “m-eth” character including the “m-eth” character
+t = ['a', 'b', 'c', 'd', 'e', 'f']
+print("List t: ", t)
+print("\n Slice t[4:] results in: ")
+t[4:]
+
+##################
+##### Output #####
+##################
+List t:  ['a', 'b', 'c', 'd', 'e', 'f']
+
+ Slice t[4:] results in: 
+['e', 'f']
+
+
