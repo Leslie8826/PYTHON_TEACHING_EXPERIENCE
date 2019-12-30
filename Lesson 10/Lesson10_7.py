@@ -89,11 +89,21 @@ List:
  
  
 # OPERATION 5
-# This program 
+# This program uses the append methid a add an 
+# element at the end of a list
 t = ['a', 'b', 'c']
 print("List: \n",t)
 
 t.append('d')
 print("\n List after adding an element: \n", t)
 
+
+##################
+##### Output #####
+##################
+List: 
+['a', 'b', 'c']
+
+List after adding an element: 
+['a', 'b', 'c', 'd']
 
