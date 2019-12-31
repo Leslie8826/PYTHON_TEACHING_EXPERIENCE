@@ -1,5 +1,5 @@
 
-# Lesson 13: Numpy
+# Lesson 13: NumPy
 
 ## Author: 
 Leslie8826
