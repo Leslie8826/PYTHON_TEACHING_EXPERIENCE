@@ -17,6 +17,25 @@ print("\n Shape of a: \n", a.shape)
 # Printing elements at certain indexes in array
 print("\n Index of : \n", a[0], a[1], a[2])
 
-# Change an element of the array and prints it
+# Change the element at index 0 in the array and prints it
 a[0] = 5  
 print("\n Array a after new assignment: \n", a)  
+
+
+
+##################
+##### Output #####
+##################
+a = [1 2 3]
+
+ Type of a: 
+ <class 'numpy.ndarray'>
+
+ Shape of a: 
+ (3,)
+
+ Index of : 
+ 1 2 3
+
+ Array a after new assignment: 
+ [5 2 3]
