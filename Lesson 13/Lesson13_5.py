@@ -25,3 +25,28 @@ print(" a[0, 1] = ", a[0, 1])
 
 # Displays array a after new assignement
 print("\n Array a after assignment: \n", a)
+
+
+
+
+##################
+##### Output #####
+##################
+Array a: 
+ [[ 1  2  3  4]
+ [ 5  6  7  8]
+ [ 9 10 11 12]]
+
+ Array b (subarray of a): 
+ [[2 3]
+ [6 7]]
+
+ a[0, 1] =  2
+
+ b[0, 0] =  77
+ a[0, 1] =  77
+
+ Array a after assignment: 
+ [[ 1 77  3  4]
+ [ 5  6  7  8]
+ [ 9 10 11 12]]
