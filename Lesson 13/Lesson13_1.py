@@ -1,5 +1,5 @@
-# This program creates an array and 
-# display some information
+# This program creates an array of rank 1 and 
+# display some information about the array
 
 import numpy as np
 
