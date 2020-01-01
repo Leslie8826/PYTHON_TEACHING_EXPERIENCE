@@ -1,3 +1,6 @@
+# This program creates an array and displays some rows 
+# and some columns using a mix of integers with slices 
+# to access the aforementioned rows and columns
 
 import numpy as np
 
@@ -31,11 +34,11 @@ Array a:
  [ 5  6  7  8]
  [ 9 10 11 12]]
 
-
+ Row 1:
 [5 6 7 8] (4,)
 [[5 6 7 8]] (1, 4)
 
-
+ Column 1: 
 [ 2  6 10] (3,)
 [[ 2]
  [ 6]
