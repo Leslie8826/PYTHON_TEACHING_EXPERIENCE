@@ -8,20 +8,18 @@ print("Array a: \n", a)
 # Mixing integer with slices to access rows or columns of an array
 
 # Displays the second row (row 1) of array a in two ways
-print("\n")
+print("\n Row 1:")
 row_r1 = a[1, :]    
 row_r2 = a[1:2, :]  
 print(row_r1, row_r1.shape)  
 print(row_r2, row_r2.shape)  
 
-print("\n")  #add space between lines
-
 # Displays column 1 of array a in two ways
+print("Column 1: ")
 col_r1 = a[:, 1]
 col_r2 = a[:, 1:2]
 print(col_r1, col_r1.shape) 
 print(col_r2, col_r2.shape) 
-
 
 
 
