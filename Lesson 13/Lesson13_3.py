@@ -4,9 +4,9 @@
 
 import numpy as np
 
-# Create an 2-rank array of all zeros
+# Create an array of all zeros
 a = np.zeros((2,2))   
-print("2-rank array of all zeros: \n", a)              
+print("Array of all zeros: \n", a)              
   
 print("\n")      # add space after this array
 
