@@ -1,4 +1,5 @@
-# This program 
+# This program creates an array of rank 2
+# and display some information about the array
 
 import numpy as np
 
