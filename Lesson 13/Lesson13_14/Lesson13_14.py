@@ -1,4 +1,4 @@
-# This program plot 
+# This program plots sin(x) function 
 
 import numpy as np
 import matplotlib.pyplot as plt
