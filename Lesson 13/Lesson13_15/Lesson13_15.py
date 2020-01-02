@@ -7,3 +7,8 @@ plt.plot(speed)
 plt.ylabel('Speed')
 plt.xlabel('Moves')
 plt.show()
+
+
+##################
+##### Output #####
+##################
