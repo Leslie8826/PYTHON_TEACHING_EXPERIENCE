@@ -1,4 +1,5 @@
-
+# This program displays the datatype of the elements
+# of each of the 3 arrays
 import numpy as np
 
 x = np.array([1, 2]) # Let numpy choose the datatype
