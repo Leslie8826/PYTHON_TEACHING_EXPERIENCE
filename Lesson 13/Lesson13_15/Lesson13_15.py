@@ -1,3 +1,5 @@
+# This program creates an array of speeds and plot them 
+# according to moves ranks
 import numpy as np
 import matplotlib.pyplot as plt
 
