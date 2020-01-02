@@ -1,4 +1,4 @@
-# This progran make a few computations with 2 arrays
+# This progran make a few elementwise computations
 import numpy as np
 
 x = np.array([[1,2],[3,4]], dtype=np.float64)
