@@ -12,3 +12,4 @@ plt.show()
 ##################
 ##### Output #####
 ##################
+# see numpy_matplotlib2.png to visualize the plot
