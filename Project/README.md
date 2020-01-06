@@ -26,5 +26,6 @@ Hard
 - You have to store the value of your speeds in a numpy array
 - You have to display your speeds at the end of the game, whether the user wins or not.
 - You have to print your speeds on a graph at the end of the game, whether the user wins or not.
+- You have to use the material learnt during this Python session.
 
 
