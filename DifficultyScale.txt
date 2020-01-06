@@ -1,0 +1,6 @@
+Each lesson has its own level of difficulty:
+Very Easy
+Easy
+Normal 
+Hard
+Very Hard
