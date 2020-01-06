@@ -121,3 +121,67 @@ print("\n Your speed graph \n")
 plt.plot(speedTrack)
 plt.ylabel('Speed')
 plt.show()
+
+
+
+
+
+##################
+##### Output #####
+##################
+LEVEL 1
+You start at 6 MetroTech, Brooklyn
+READY
+SET
+GOOOOO!!!
+
+ Type your speed: 90
+
+ Type your speed: 99
+ Wooow slow down!!! There is a speed limit even on the highway
+
+ Type your speed: 82
+Increase your speed you are on the highway
+
+ Type your speed: 88
+
+ Congrats! LEVEL 1 COMPLETE!!
+
+ This is level 2
+
+ You are downtown manhattan! you still have a long way to go
+
+ BEWARE OF THE SPEED LIMITS!!!!
+
+ Type your speed: 59
+ You've got to slow down
+
+ Type your speed: 45
+Go faster please!!
+
+ Type your speed: 55
+ You've got to slow down
+
+ CONGRATULATIONS!! LEVEL 2 COMPLETE
+
+ This is Level 3. You are now in midtown manhattan!
+
+ Uptown Manhattan is your next stop!! Keep going!!
+
+Type your speed: 6
+Speed up
+
+Type your speed: 24
+ SLOW DOWN YOU'RE IN TOWN!!!
+
+Type your speed: 16
+
+ You made it to uptown Manhattan
+CONGRATULATIONS YOU WIN
+
+ Your speed values: 
+
+90  99  82  88  59  45  55  6  24  16  
+ Your speed graph 
+
+
