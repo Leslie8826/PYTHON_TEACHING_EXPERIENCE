@@ -10,7 +10,7 @@ High School Students
 Summer 2018
 
 ## Overview
-This class was a chapter of an Artificial Intelligence curriculum.
+This class was a chapter of an Artificial Intelligence curriculum created for high school students.
 
 ## Tool to run Python: 
 https://colab.research.google.com/notebooks/welcome.ipynb
